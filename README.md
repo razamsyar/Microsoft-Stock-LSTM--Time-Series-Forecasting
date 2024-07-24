@@ -4,4 +4,4 @@ This repository contains the project for the SKIH2103 Data Analytics course, foc
 Group 7 Members:
 1. Harraz Amsyar
 2. Muhammad Dzakwan
-3. Wan Muhammad Ikmal
+3. Wan Muhammad Ikmal (Leader)
